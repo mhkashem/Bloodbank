@@ -1,0 +1,92 @@
+C:\Users\rokib\source\repos\Blood\Blood\bin\ApplicationInsights.config
+C:\Users\rokib\source\repos\Blood\Blood\bin\Blood.dll.config
+C:\Users\rokib\source\repos\Blood\Blood\bin\Blood.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Blood.pdb
+C:\Users\rokib\source\repos\Blood\Blood\bin\Antlr3.Runtime.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\EntityFramework.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\EntityFramework.SqlServer.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.Web.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\Newtonsoft.Json.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.Helpers.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.Mvc.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.Optimization.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.Razor.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.WebPages.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.WebPages.Razor.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\WebGrease.dll
+C:\Users\rokib\source\repos\Blood\Blood\bin\EntityFramework.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\EntityFramework.SqlServer.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.Helpers.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.Mvc.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.Optimization.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.Razor.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.WebPages.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\System.Web.WebPages.Razor.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\Antlr3.Runtime.pdb
+C:\Users\rokib\source\repos\Blood\Blood\bin\Newtonsoft.Json.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rokib\source\repos\Blood\Blood\bin\Microsoft.AI.Web.xml
+C:\Users\rokib\source\repos\Blood\Blood\obj\Debug\Blood.csprojResolveAssemblyReference.cache
+C:\Users\rokib\source\repos\Blood\Blood\obj\Debug\Blood.csproj.CoreCompileInputs.cache
+C:\Users\rokib\source\repos\Blood\Blood\obj\Debug\Blood.dll
+C:\Users\rokib\source\repos\Blood\Blood\obj\Debug\Blood.pdb
+E:\9th smstr\project c#\Blood\Blood\bin\ApplicationInsights.config
+E:\9th smstr\project c#\Blood\Blood\bin\Blood.dll.config
+E:\9th smstr\project c#\Blood\Blood\bin\Blood.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Blood.pdb
+E:\9th smstr\project c#\Blood\Blood\bin\Antlr3.Runtime.dll
+E:\9th smstr\project c#\Blood\Blood\bin\EntityFramework.dll
+E:\9th smstr\project c#\Blood\Blood\bin\EntityFramework.SqlServer.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.Agent.Intercept.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.DependencyCollector.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.Web.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.WindowsServer.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.ApplicationInsights.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.Web.Infrastructure.dll
+E:\9th smstr\project c#\Blood\Blood\bin\Newtonsoft.Json.dll
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.Helpers.dll
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.Mvc.dll
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.Optimization.dll
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.Razor.dll
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.WebPages.Deployment.dll
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.WebPages.dll
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.WebPages.Razor.dll
+E:\9th smstr\project c#\Blood\Blood\bin\WebGrease.dll
+E:\9th smstr\project c#\Blood\Blood\bin\EntityFramework.xml
+E:\9th smstr\project c#\Blood\Blood\bin\EntityFramework.SqlServer.xml
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.Helpers.xml
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.Mvc.xml
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.Optimization.xml
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.Razor.xml
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.WebPages.xml
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.WebPages.Deployment.xml
+E:\9th smstr\project c#\Blood\Blood\bin\System.Web.WebPages.Razor.xml
+E:\9th smstr\project c#\Blood\Blood\bin\Antlr3.Runtime.pdb
+E:\9th smstr\project c#\Blood\Blood\bin\Newtonsoft.Json.xml
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.ApplicationInsights.xml
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.DependencyCollector.xml
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.WindowsServer.xml
+E:\9th smstr\project c#\Blood\Blood\bin\Microsoft.AI.Web.xml
+E:\9th smstr\project c#\Blood\Blood\obj\Debug\Blood.csprojResolveAssemblyReference.cache
+E:\9th smstr\project c#\Blood\Blood\obj\Debug\Blood.csproj.CoreCompileInputs.cache
+E:\9th smstr\project c#\Blood\Blood\obj\Debug\Blood.dll
+E:\9th smstr\project c#\Blood\Blood\obj\Debug\Blood.pdb
